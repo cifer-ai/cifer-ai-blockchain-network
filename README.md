@@ -1,3 +1,3 @@
-# KERAMOS Mainsite Update Log
+# KERAMOS Mainsite
 
-(https://keramos.tech)
+URL : https://www.keramos.tech/
